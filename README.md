@@ -1,11 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lyorrei Shono Quintão</h1>
-<h3 align="center">I'm a full stack developer studying new technologies</h3>
+<h3 align="center">I'm a full stack developer with a lot of experience in web development!</h3>
 
 - 🌱 I’m currently learning new languages and tools
 - 👯 I’m looking to collaborate on world tec in brazil
-- 💬 Ask me about games/animes/books
 - 📫 How to reach me: reishono@outlook.com
-- ⚡ Fun fact: The first oranges weren’t orange ?🤔
+
+<br/>
 
 
 <div style="display: inline-block"  align="center" >
@@ -20,7 +20,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
      
-  <img align="center" alt="NODE" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ANextjs-logo.svg&psig=AOvVaw1cOWIe3-WVbUUwMPZeoEIo&ust=1650991698092000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjVk8DVr_cCFQAAAAAdAAAAABAD" />
+ 
   <img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
